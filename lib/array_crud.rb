@@ -10,7 +10,6 @@ end
 
 def add_element_to_end_of_array(array, element)
   array = ["guarana", "acerola", "pitanga", "castanha"]
-  element = "cassava"
   array << element
 end
 
